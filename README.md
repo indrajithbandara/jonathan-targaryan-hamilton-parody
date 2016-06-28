@@ -1,14 +1,19 @@
 
+# Jonathan Targaryan
+## A Game of Thrones parody of "Alexander Hamilton"
+
  | Original | Parody |
  |----------|--------|
-| [] | |,| [BURR]
+| [] | |
+,| [BURR]
 How does a bastard, orphan, son of a whore and a
 Scotsman, dropped in the middle of a
 Forgotten spot in the Caribbean by providence
 Impoverished, in squalor
 Grow up to be a hero and a scholar?
 
-] | |,| [LAURENS]
+] | |
+,| [LAURENS]
 The ten-dollar founding father without a father
 Got a lot farther by working a lot harder
 By being a lot smarter
@@ -16,50 +21,61 @@ By being a self-starter
 By fourteen, they placed him in charge of a
 Trading charter
 
-] | |,| [JEFFERSON]
+] | |
+,| [JEFFERSON]
 And every day while slaves were being slaughtered and carted
 Away across the waves, he struggled and kept his guard up
 Inside, he was longing for something to be a part of
 The brother was ready to beg, steal, borrow, or barter
 
-] | |,| [MADISON]
+] | |
+,| [MADISON]
 Then a hurricane came, and devastation reigned
 Our man saw his future drip, dripping down the drain
 Put a pencil to his temple, connected it to his brain
 And he wrote his first refrain, a testament to his pain
 
-] | |,| [BURR]
+] | |
+,| [BURR]
 Well, the word got around, they said, “This kid is insane, man”
 Took up a collection just to send him to the mainland
 “Get your education, don’t forget from whence you came, and
 The world is gonna know your name. What’s your name, man?”
 
-] | |,| [HAMILTON]
+] | |
+,| [HAMILTON]
 Alexander Hamilton
 My name is Alexander Hamilton
 And there’s a million things I haven’t done
 But just you wait, just you wait...
 
-] | |,| [ELIZA]
+] | |
+,| [ELIZA]
 When he was ten his father split, full of it, debt-ridden
 Two years later, see Alex and his mother bed-ridden
 Half-dead sittin' in their own sick, the scent thick
 
-] | |,| [COMPANY]
+] | |
+,| [COMPANY]
 And Alex got better but his mother went quick
 
-] | |,| [WASHINGTON]
+] | |
+,| [WASHINGTON]
 Moved in with a cousin, the cousin committed suicide
 Left him with nothin’ but ruined pride, something new inside
 A voice saying
 
-] | |,| [WASHINGTON]
-“You gotta fend for yourself.”	] | |,| [COMPANY]
+] | |
+,| [WASHINGTON]
+“You gotta fend for yourself.”	] | |
+,| [COMPANY]
 “Alex, you gotta fend for yourself.”
-] | |,| [WASHINGTON]
+] | |
+,| [WASHINGTON]
 He started retreatin’ and readin’ every treatise on the shelf
 
-] | |,| [BURR]
+] | |
+,| [BURR]
 There would have been nothin’ left to do
 For someone less astute
 He woulda been dead or destitute
@@ -75,32 +91,40 @@ In New York you can be a new man
  
  
  
-] | |,| [COMPANY]
+] | |
+,| [COMPANY]
 Scammin’
 
 Plannin’
 Oooh...
-] | |,| [COMPANY]
+] | |
+,| [COMPANY]
 In New York you can
 Be a new man—
 In New York you can
 Be a new man—	 
-] | |,| [HAMILTON]
+] | |
+,| [HAMILTON]
 Just you wait!
 
 Just you wait!
  
-] | |,| [COMPANY]
+] | |
+,| [COMPANY]
 In New York you can be a new man—
 
-] | |,| [WOMEN]
+] | |
+,| [WOMEN]
 In New York—	 
-] | |,| [MEN]
+] | |
+,| [MEN]
 New York—
-] | |,| [HAMILTON]
+] | |
+,| [HAMILTON]
 Just you wait!
 
-] | |,| [COMPANY]
+] | |
+,| [COMPANY]
 Alexander Hamilton
 
 We are waiting in the wings for you
@@ -115,7 +139,8 @@ Will they know what you overcame?
 Will they know you rewrote the game?
 The world will never be the same, oh
 
-] | |,| [BURR]
+] | |
+,| [BURR]
 The ship is in the harbor now
 See if you can spot him
 
@@ -123,7 +148,8 @@ Another immigrant
 Comin’ up from the bottom
 
 His enemies destroyed his rep
-America forgot him	] | |,| [COMPANY]
+America forgot him	] | |
+,| [COMPANY]
 Alexander Hamilton
 
 Waiting in the wings for you
@@ -138,36 +164,46 @@ Will they know you rewrote the game?
 The world will never be the same, oh
 
 
-] | |,| [MEN]
+] | |
+,| [MEN]
 Just you wait
 
-] | |,| [COMPANY]
+] | |
+,| [COMPANY]
 Just you wait
  
  
  
-] | |,| [MULLIGAN/MADISON & LAFAYETTE/JEFFERSON]
+] | |
+,| [MULLIGAN/MADISON & LAFAYETTE/JEFFERSON]
 We fought with him
 
-] | |,| [LAURENS/PHILIP]
+] | |
+,| [LAURENS/PHILIP]
 Me? I died for him
 
-] | |,| [WASHINGTON]
+] | |
+,| [WASHINGTON]
 Me? I trusted him
 
-] | |,| [ELIZA & ANGELICA & PEGGY/MARIA]
+] | |
+,| [ELIZA & ANGELICA & PEGGY/MARIA]
 Me? I loved him
 
-] | |,| [BURR]
+] | |
+,| [BURR]
 And me? I’m the damn fool that shot him
 
-] | |,| [COMPANY]
+] | |
+,| [COMPANY]
 There’s a million things I haven’t done
 But just you wait!
 
-] | |,| [BURR]
+] | |
+,| [BURR]
 What’s your name, man?
 
-] | |,| [COMPANY]
+] | |
+,| [COMPANY]
 Alexander Hamilton!
 ] | |
