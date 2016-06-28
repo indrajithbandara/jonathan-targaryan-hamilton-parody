@@ -9,6 +9,7 @@ let markdown = `
 # Jonathan Targaryan
 ## A Game of Thrones parody of "Alexander Hamilton"
 
+
  | Original | Parody |\n
  |----------|--------|\n
 `
@@ -16,6 +17,7 @@ let markdown = `
 markdown += stanzas.map((stanza) => {
   return `| ${stanza} |  |\n`
 })
+markdown += '\n\n'
 
 fs.writeFileSync(path.join(__dirname, 'README.md'), markdown)
 

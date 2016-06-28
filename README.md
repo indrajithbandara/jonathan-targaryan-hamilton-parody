@@ -2,6 +2,7 @@
 # Jonathan Targaryan
 ## A Game of Thrones parody of "Alexander Hamilton"
 
+
  | Original | Parody |
 
  |----------|--------|
@@ -209,3 +210,5 @@ What’s your name, man?
 ,| [COMPANY]
 Alexander Hamilton!
 ] |  |
+
+
