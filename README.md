@@ -3,7 +3,9 @@
 ## A Game of Thrones parody of "Alexander Hamilton"
 
  | Original | Parody |
+
  |----------|--------|
+
 | [] |  |
 ,| [BURR]
 How does a bastard, orphan, son of a whore and a

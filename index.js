@@ -9,8 +9,8 @@ let markdown = `
 # Jonathan Targaryan
 ## A Game of Thrones parody of "Alexander Hamilton"
 
- | Original | Parody |
- |----------|--------|
+ | Original | Parody |\n
+ |----------|--------|\n
 `
 
 markdown += stanzas.map((stanza) => {
