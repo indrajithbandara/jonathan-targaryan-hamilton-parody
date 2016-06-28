@@ -14,7 +14,7 @@ let markdown = `
 `
 
 markdown += stanzas.map((stanza) => {
-  return `| ${stanza} | |\n`
+  return `| ${stanza} |  |\n`
 })
 
 fs.writeFileSync(path.join(__dirname, 'README.md'), markdown)
